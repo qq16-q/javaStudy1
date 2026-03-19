@@ -1,4 +1,7 @@
 package org.book.springbootgittest.service.Impl;
 
-public class MainServiceImpl {
+
+import org.book.springbootgittest.service.MainService;
+
+public class MainServiceImpl implements MainService {
 }
